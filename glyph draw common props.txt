@@ -1,0 +1,7 @@
+width="120" height="120"
+
+icon limits 10,10,110,110
+
+stroke="black" stroke-width=8;
+
+stroke-linejoin="round" stroke-linecaps="8"

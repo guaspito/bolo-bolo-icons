@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <title>sumi</title>
+    <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title>sumi</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>@guaspito</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+   <circle cx="60" cy="60" r="48" fill="none" stroke="white" stroke-width="8"/>
+   <path d="M30,25 L 70,60 L 35,95 M90,25 L 50,60 L 90,95" fill="none" stroke="white" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

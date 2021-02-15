@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="120"
+   height="120"
+   version="1.1">
+  <title>bolo</title>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title>bolo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>@guaspito</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <path stroke="black" stroke-width="8" fill="none" stroke-linejoin="round" d="M 10,10 H 110 V 110 H 10 Z M 61,9.9326115 C 87.309027,10.480835 110.33902,34.178921 110.06342,60.478796 109.78784,86.777378 86.310884,109.99533 60,109.99533 33.689116,109.99533 10.302042,86.777378 10.026463,60.478796 9.7508709,34.178921 32.690973,10.480835 59,9.9326115 M 59.958864,10 17.179101,84.874761 102.92462,84.81402 Z"
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title>munu</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>@guaspito</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title>munu</title>
+
+  <circle stroke-width="8" stroke="#444444" fill="none" r="48" cy="60" cx="60"/>
+  <circle stroke-width="8" stroke="#444444" fill="none" r="15" cy="60" cx="60"/>
+
+</svg>

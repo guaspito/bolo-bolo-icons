@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title>feno</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>@guaspito</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title>feno</title>
+  <path stroke="#444444" stroke-width="8" fill="none" stroke-linecap="round" d="M 10 43 H 110 M 10 78 H 110 M 43 10 V 110 M 78 10 V 110">
+</svg>
