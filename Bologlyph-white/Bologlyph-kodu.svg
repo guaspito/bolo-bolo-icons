@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <title>kodu</title>
 <path stroke="white" stroke-width="8" stroke-linecap="round" fill="none" d="m10,10q50,50,50,100q0,-50 50-100M10,90h100m0,20H10"/>
 </svg>
