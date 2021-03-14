@@ -44,3 +44,9 @@ In the post, I imagine that we can use the symbols of asa'pili to share informat
 The icons are mostly an slight adaptation of the symbols released on [Asa'pili page on wikipedia](https://en.wikipedia.org/wiki/Asa'pili) and are released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.it). 
 Icons are SVG code. Colors are black, white, and grey #444444 like the ones of OSMIC. There is a small python script to change the color of icons.
 
+### UPDATE 2021-03-14
+
+## Added asa'pili card 	:star_struck:
+
+![Asa'pili schema it](./asa%20pili%20card/bolo%20schema%20IT.png)
+
