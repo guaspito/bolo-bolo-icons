@@ -5,7 +5,7 @@ Icons inspired by the 1983 P.M.'s book [bolo'bolo](https://www.anarcopedia.org/i
 
 The book exploits a new global basic language that allows inter-communication of communities (*bolo*) describing the ideal culture that they promote. The language is called *asa'pili* (language of humanity) and figure basic universal needs and basic world organizational structures.
 
-I exploited the connection of this idea with other "utopic" perspectives (Bahai Faith and Non-violent communication) in [this post](http://freeetiology.blogspot.com/2021/02/bolobolo-e-la-lingua-universale.html), hoping that all the people that likes these ideals and aspire to a new world join toegether in a big (pacific) revolutionary/utopian movement. In the post, I imagine that we can use the symbols of asa'pili to **share information about de-mercified resources**, in order to start to live in a post-scarcity environment, sharing common goods instead of stashing money and power. These icons are made for maps (I want to make one of my region) 
+I exploited the connection of this idea with other not-so-utopic perspectives (Bahai Faith and Non-violent communication) in [this post](http://freeetiology.blogspot.com/2021/02/bolobolo-e-la-lingua-universale.html), hoping that all the people that likes these ideals and aspire to a new world join toegether in a big (pacific) revolutionary/utopian movement. In the post, I imagine that we can use the symbols of asa'pili to **share information about de-mercified resources**, in order to start to live in a post-scarcity environment, sharing common goods instead of stashing money and power. These icons are made for maps (I want to make one of my region) 
 
 
 | Icon name         |  Meaning *eng*    |   Meaning *ita*   |
