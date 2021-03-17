@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g>
+  <title>pali</title>
+  <g>
+   <path d="m10,10c65,0 65,100 0,100 M110,10c-65,0 -65,100 0,100" fill="none" stroke-width="8" stroke="#444444" stroke-linecap="round"/>
+  </g>
+ </g>
+</svg>

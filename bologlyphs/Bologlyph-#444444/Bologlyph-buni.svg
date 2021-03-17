@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g>
+  <title>buni</title>
+    <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:title>bolo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>@guaspito</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g>
+   <line stroke="#444444" stroke-width="8" stroke-linecap="round" fill="none" y2="110" x2="60" y1="12" x1="60"/>
+   <path stroke="#444444" stroke-width="8" stroke-linecap="round" fill="none" d="m10,110c0,-65 100,-65 100,0"/>
+   <path stroke="#444444" stroke-width="8" stroke-linecap="round" fill="none" d="m10,60c0,-65 100,-65 100,0"/>
+  </g>
+ </g>
+</svg>
