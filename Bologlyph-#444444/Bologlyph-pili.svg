@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-
-  <title>pili</title>
-
-   <path stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke="#444444" fill="none" d="M85,10 H10V110H85M10,60H110M110,10v100"/>
-
-</svg>
