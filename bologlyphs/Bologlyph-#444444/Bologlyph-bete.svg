@@ -3,10 +3,10 @@
  <g>
   <title>bete</title>
   <g>
-   <circle stroke-width="12" stroke="#444444" fill="none" r="38" cy="60" cx="60"/>
-   <line stroke-width="12" stroke="#444444" y2="106" x2="60" y1="30" x1="25"/>
-   <line stroke-width="12" stroke="#444444" y2="106" x2="60" y1="30" x1="95"/>
-   <line stroke-width="12" stroke="#444444" y2="106" x2="60" y1="12" x1="60"/>
+   <circle stroke-width="12" stroke="#444444" fill="none" r="40" cy="60" cx="60"/>
+   <line stroke-width="12" stroke="#444444" stroke-linecap="round" y2="100" x2="60" y1="35" x1="30"/>
+   <line stroke-width="12" stroke="#444444" stroke-linecap="round" y2="100" x2="60" y1="35" x1="90"/>
+   <line stroke-width="12" stroke="#444444" stroke-linecap="round" y2="100" x2="60" y1="20" x1="60"/>
   </g>
  </g>
 </svg>
