@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g>
+  <title>sufu</title>
+  <g>
+  <path stroke="black" stroke-width="12" stroke-linecap="round" fill="none" d="m60,100s0,-40 -40,-80"/>
+   <path stroke="black" stroke-width="12" stroke-linecap="round" fill="none" d="m60,100s0,-40 40,-80"/>
+   <path stroke="black" stroke-width="12" stroke-linejoin="round" fill="none" d="m20,60c0,54 80,54 80,0l-80,0z"/>
+  </g>
+ </g>
+</svg>
