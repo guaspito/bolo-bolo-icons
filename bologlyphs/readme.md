@@ -5,5 +5,5 @@ there is two sets of icons:
 - **Stroke 12**: useful for maps. In three elegant colors
   - <img src="./Bologlyph-black12/Bologlyph-dala.svg" width="25"> black
   - <img src="./Bologlyph-white/Bologlyph-dala.svg" width="25"> white
-  - <img src="./Bologlyph-#444444/Bologlyph-dala.svg" width="25"> grey (#444444)   
+  - <img src="./Bologlyph-%23444444/Bologlyph-dala.svg" width="25"> grey (#444444)   
 
