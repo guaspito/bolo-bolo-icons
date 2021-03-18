@@ -3,8 +3,8 @@
  <g>
   <title>kana</title>
   <g>
-   <polyline stroke-width="8" stroke="#444444" stroke-linecap="round" stroke-linejoin="round" fill="none" points="10,110 60,10 110,110"/>
-   <rect stroke-width="8" stroke="#444444" stroke-linejoin="round" fill="none" height="100" width="100" x="10" y="10"/>
+   <polyline stroke-width="12" stroke="#444444" stroke-linecap="round" stroke-linejoin="round" fill="none" points="20,100 60,20 100,100"/>
+   <rect stroke-width="12" stroke="#444444" stroke-linejoin="round" fill="none" height="80" width="80" x="20" y="20"/>
   </g>
  </g>
 </svg>

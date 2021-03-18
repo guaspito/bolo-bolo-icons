@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g>
+  <title>sibi</title>
+  <g>
+   <rect stroke-width="12" stroke-linejoin="round" stroke="black" fill="none" height="80" width="80" x="20" y="20"/>
+   <path stroke="black" stroke-width="12" stroke-linecap="round" fill="none" d="m20,20c0,55 80,55 80,0"/>
+   <line stroke-width="12" stroke="black" stroke-linecap="round" x1="60" y1="20" x2="60" y2="100"/>
+  </g>
+ </g>
+</svg>

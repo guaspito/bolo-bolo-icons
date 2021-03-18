@@ -3,8 +3,8 @@
  <g>
   <title>kene</title>
   <g>
-   <path d="m10,10c0,65 100,65 100,0" fill="none" stroke-width="8" stroke-linecap="round" stroke="white"/>
-   <line y2="110" x2="60" y1="10" x1="60" stroke="white" stroke-width="8" stroke-linecap="round"/>
+   <path d="m20,20c0,55 80,55 80,0" fill="none" stroke-width="12" stroke-linecap="round" stroke="white"/>
+   <line y2="100" x2="60" y1="20" x1="60" stroke="white" stroke-width="12" stroke-linecap="round"/>
   </g>
  </g>
 </svg>

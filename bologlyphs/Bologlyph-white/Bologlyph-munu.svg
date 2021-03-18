@@ -17,7 +17,7 @@
   </metadata>
   <title>munu</title>
 
-  <circle stroke-width="8" stroke="white" fill="none" r="48" cy="60" cx="60"/>
-  <circle stroke-width="8" stroke="white" fill="none" r="15" cy="60" cx="60"/>
+  <circle stroke-width="12" stroke="white" fill="none" r="40" cy="60" cx="60"/>
+  <circle stroke-width="12" stroke="white" fill="none" r="12" cy="60" cx="60"/>
 
 </svg>

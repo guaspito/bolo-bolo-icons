@@ -16,6 +16,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-   <rect stroke-width="8" stroke-linejoin="round" stroke="white" fill="none" height="100" width="100" x="10" y="10"/>
-   <polyline points="10,43 77,43 43,77 110,77" stroke-width="8" stroke-linejoin="round" stroke="white" fill="none"/>
+   <rect stroke-width="12" stroke-linejoin="round" stroke="white" fill="none" height="80" width="80" x="20" y="20"/>
+   <polyline points="20,47 73,47 47,73 100,73" stroke-width="12" stroke-linejoin="round" stroke="white" fill="none"/>
 </svg>

@@ -3,7 +3,7 @@
  <g>
   <title>asa</title>
   <g>
-   <circle cx="60" cy="60" r="48" fill="none" stroke="#444444" stroke-width="8"/>
+   <circle cx="60" cy="60" r="40" fill="none" stroke="#444444" stroke-width="12"/>
   </g>
  </g>
 </svg>

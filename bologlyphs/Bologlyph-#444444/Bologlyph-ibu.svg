@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="120" height="120" xmlns="http://www.w3.org/2000/svg"><title>ibu</title>
-<circle stroke="#444444" r="8" cy="60" cx="60"/>
-<circle stroke-width="8" stroke="#444444" fill="none" r="48" cy="60" cx="60"/>
+<circle stroke="#444444" r="10" cy="60" cx="60"/>
+<circle stroke-width="12" stroke="#444444" fill="none" r="40" cy="60" cx="60"/>
 </svg>

@@ -3,7 +3,7 @@
  <g>
   <title>pali</title>
   <g>
-   <path d="m10,10c65,0 65,100 0,100 M110,10c-65,0 -65,100 0,100" fill="none" stroke-width="8" stroke="white" stroke-linecap="round"/>
+   <path d="m20,20c53.5,0 53.5,80 0,80 M100,20c-53.5,0 -53.5,80 0,80" fill="none" stroke-width="12" stroke="white" stroke-linecap="round"/>
   </g>
  </g>
 </svg>

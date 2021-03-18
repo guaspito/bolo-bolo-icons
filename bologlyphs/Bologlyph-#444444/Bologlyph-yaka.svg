@@ -3,8 +3,8 @@
  <g>
   <title>yaka</title>
   <g>
-   <polyline stroke-width="8" stroke="#444444" stroke-linecap="round" fill="none" points="10,110 60,30 110,110"/>
-   <polyline stroke-width="8" stroke="#444444" stroke-linecap="round" fill="none" points="10,10 60,90 110,10"/>
+   <polyline stroke-width="12" stroke="#444444" stroke-linecap="round" fill="none" points="20,100 60,40 100,100"/>
+   <polyline stroke-width="12" stroke="#444444" stroke-linecap="round" fill="none" points="20,20 60,80 100,20"/>
   </g>
  </g>
 </svg>

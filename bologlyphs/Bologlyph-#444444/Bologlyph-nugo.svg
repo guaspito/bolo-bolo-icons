@@ -3,7 +3,7 @@
  <g>
   <title>nugo</title>
   <g>
-   <polygon stroke="#444444" stroke-width="8" stroke-linejoin="round" fill="none" points="10,10 110,10 10,110 110,110"/>
+   <polygon stroke="#444444" stroke-width="12" stroke-linejoin="round" fill="none" points="20,20 100,20 20,100 100,100"/>
   </g>
  </g>
 </svg>

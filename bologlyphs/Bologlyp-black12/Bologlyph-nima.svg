@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>nima</title>
+  <g>
+   <path stroke="black" stroke-width="12" stroke-linecap="round" fill="none" d="m20,20c0,54 80,54 80,0"/>
+   <path stroke="black" stroke-width="12" stroke-linecap="round" fill="none" d="m20,100c0,-54 80,-54 80,0"/>
+   <line stroke-width="12" stroke="black" stroke-linecap="round" x1="60" y1="20" x2="60" y2="100"/>
+  </g>
+ </g>
+</svg>

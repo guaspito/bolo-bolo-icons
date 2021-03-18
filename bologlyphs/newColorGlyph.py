@@ -28,7 +28,7 @@ def findReplace(directory, find, replace, filePattern, outputDir):
             with open(filepathO, "w") as f:
                 f.write(s)
 
-findReplace("Bologlyp-black8",'stroke="black"','stroke="'+strokecolor+'"',"*.svg",outDir)
+findReplace("Bologlyp-black12",'stroke="black"','stroke="'+strokecolor+'"',"*.svg",outDir)
 #
 # in the same manner, it is possible to change the stroke size by replacing
 # 'stroke-width="8"'  with 'stroke-width="'+X+'"' where X is the new stroke widht

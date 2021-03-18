@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <title>sila</title>
-<path stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M10,10 60,110 110,10
-M60,10V110"/>
+<path stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M20,20 60,100 100,20 M60,20V100"/>
 </svg>

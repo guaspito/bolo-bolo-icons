@@ -3,9 +3,9 @@
  <g>
   <title>sufu</title>
   <g>
-  <path stroke="white" stroke-width="8" stroke-linecap="round" fill="none" d="m60,110s0,-50 -50,-100"/>
-   <path stroke="white" stroke-width="8" stroke-linecap="round" fill="none" d="m60,110s0,-50 50,-100"/>
-   <path stroke="white" stroke-width="8" stroke-linejoin="round" fill="none" d="m10,60c0,70 100,70 100,0l-100,0z"/>
+  <path stroke="white" stroke-width="12" stroke-linecap="round" fill="none" d="m60,100s0,-40 -40,-80"/>
+   <path stroke="white" stroke-width="12" stroke-linecap="round" fill="none" d="m60,100s0,-40 40,-80"/>
+   <path stroke="white" stroke-width="12" stroke-linejoin="round" fill="none" d="m20,60c0,54 80,54 80,0l-80,0z"/>
   </g>
  </g>
 </svg>

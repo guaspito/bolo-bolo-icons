@@ -18,8 +18,8 @@
     </rdf:RDF>
   </metadata>
   <g>
-   <line y2="60" x2="110" y1="60" x1="10" fill="none" stroke="#444444" stroke-linecap="round" stroke-width="8"/>
-   <circle cx="60" cy="60" r="44" fill="none" stroke="#444444" stroke-width="8"/>
+   <line y2="60" x2="100" y1="60" x1="20" fill="none" stroke="#444444" stroke-linecap="round" stroke-width="12"/>
+   <circle cx="60" cy="60" r="35" fill="none" stroke="#444444" stroke-width="12"/>
   </g>
  </g>
 </svg>

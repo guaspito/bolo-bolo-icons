@@ -16,5 +16,5 @@
     </rdf:RDF>
   </metadata>
   <title>feno</title>
-  <path stroke="#444444" stroke-width="8" fill="none" stroke-linecap="round" d="M 10 43 H 110 M 10 78 H 110 M 43 10 V 110 M 78 10 V 110"/>
+  <path stroke="#444444" stroke-width="12" fill="none" stroke-linecap="round" d="M 10 43 H 110 M 10 78 H 110 M 43 10 V 110 M 78 10 V 110"/>
 </svg>

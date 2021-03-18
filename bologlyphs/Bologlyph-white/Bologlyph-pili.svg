@@ -3,6 +3,6 @@
 
   <title>pili</title>
 
-   <path stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke="white" fill="none" d="M85,10 H10V110H85M10,60H110M110,10v100"/>
+   <path stroke-width="12" stroke-linejoin="round" stroke-linecap="round" stroke="white" fill="none" d="M75,20 H20v80H75M20,60H100M100,20v80"/>
 
 </svg>

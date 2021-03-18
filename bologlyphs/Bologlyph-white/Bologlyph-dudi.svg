@@ -17,6 +17,6 @@
   </metadata>
   <title>dudi</title>
 
-  <path stroke="white" stroke-width="8" fill="none" stroke-linecap="round"  d="M 10 90 H 110 M 60 110 V 90 L 10 10 M 60 90 L 110 10"/>
+  <path stroke="white" stroke-width="12" fill="none" stroke-linecap="round"  d="M 20 82 h 80 M 60 100 V 82 L 20 20 M 60 82 L 100 20"/>
 
 </svg>
