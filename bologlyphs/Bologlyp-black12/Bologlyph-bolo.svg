@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <title>bolo</title>
-
-  <circle cx="60" cy="60" r="36" fill="none" stroke="black" stroke-width="11"/>
-  <path stroke="black" stroke-width="11" fill="none" stroke-linejoin="round" d="M 20,20 H 100 V 100 H 20 Z M 60,21 26,80 94,80 Z"/>
-</svg>
