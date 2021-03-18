@@ -10,35 +10,35 @@ I exploited the connection of this idea with other not-utopic perspectives (Baha
 
 |  Glyph | Icon name         |  Meaning *eng*    |   Meaning *ita*   |
 |---| ----------------- | ----------------- | ----------------- |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-asa.svg" width="25">|Bologlyph-asa.svg  | world, humanity   | mondo, umanità    |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-bete.svg" width="25">|Bologlyph-bete.svg | medicine, health  | salute, medicina  |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-bolo.svg" width="25">|Bologlyph-bolo.svg | community, village|comunità, villaggio|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-buni.svg" width="25">|Bologlyph-buni.svg | gift, present     | dono, offerta     |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-dala.svg" width="25">|Bologlyph-dala.svg | council, assembly |assemblea, comitato|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-dudi.svg" width="25">|Bologlyph-dudi.svg |foreigner, observer|osservatore, delegato|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-fasi.svg" width="25">|Bologlyph-fasi.svg | travel, transport | trasporto, viaggio|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-feno.svg" width="25">|Bologlyph-feno.svg | barting, trade    | baratto, commercio|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-fudo.svg" width="25">|Bologlyph-fudo.svg | city, county      | città, bioregione |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-gano.svg" width="25">|Bologlyph-gano.svg | house, building   | casa, edificio    |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-ibu.svg" width="25">|Bologlyph-ibu.svg  | individual, person| essere umano      |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-kana.svg" width="25">|Bologlyph-kana.svg | family, clan      | famiglia, clan    |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-kene.svg" width="25">|Bologlyph-kene.svg | community work    | lavoro comunitario|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-kodu.svg" width="25">|Bologlyph-kodu.svg |agriculture, nature|agricoltura, natura|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-mafa.svg" width="25">|Bologlyph-mafa.svg | depot, warehouse  |deposito, magazzino| 
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-munu.svg" width="25">|Bologlyph-munu.svg | reputation        | reputazione, fama |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-nima.svg" width="25">|Bologlyph-nima.svg | tradition, culture|cultura, tradizione|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-nugo.svg" width="25">|Bologlyph-nugo.svg |death, suicide pill|morte, suicidio    |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-pali.svg" width="25">|Bologlyph-pali.svg | energy, fuel      | energia, carburante|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-pili.svg" width="25">|Bologlyph-pili.svg |communication, education|comunicazione,educazione|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-sadi.svg" width="25">|Bologlyph-sadi.svg | market, fair      | mercato, fiera    |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-sibi.svg" width="25">|Bologlyph-sibi.svg | craft, industry   | artigianato, industria|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-sila.svg" width="25">|Bologlyph-sila.svg |hospitality, tolerance| ospitalità, supporto|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-sufu.svg" width="25">|Bologlyph-sufu.svg |water, water supply| acqua, sorgente   |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-sumi.svg" width="25">|Bologlyph-sumi.svg | region, island    | regione, isola    |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-taku.svg" width="25">|Bologlyph-taku.svg | personal property |proprietà personale|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-tega.svg" width="25">|Bologlyph-tega.svg | district, town    | distretto, città  |
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-yaka.svg" width="25">|Bologlyph-yaka.svg | disagreement, war | litigio, battaglia|
-|<img src="./bologlyphs/Bologlyp-black8/Bologlyph-yalu.svg" width="25">|Bologlyph-yalu.svg | food, cuisine     | cibo, cucina      |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-asa.svg" width="25">|Bologlyph-asa.svg  | world, humanity   | mondo, umanità    |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-bete.svg" width="25">|Bologlyph-bete.svg | medicine, health  | salute, medicina  |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-bolo.svg" width="25">|Bologlyph-bolo.svg | community, village|comunità, villaggio|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-buni.svg" width="25">|Bologlyph-buni.svg | gift, present     | dono, offerta     |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-dala.svg" width="25">|Bologlyph-dala.svg | council, assembly |assemblea, comitato|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-dudi.svg" width="25">|Bologlyph-dudi.svg |foreigner, observer|osservatore, delegato|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-fasi.svg" width="25">|Bologlyph-fasi.svg | travel, transport | trasporto, viaggio|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-feno.svg" width="25">|Bologlyph-feno.svg | barting, trade    | baratto, commercio|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-fudo.svg" width="25">|Bologlyph-fudo.svg | city, county      | città, bioregione |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-gano.svg" width="25">|Bologlyph-gano.svg | house, building   | casa, edificio    |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-ibu.svg" width="25">|Bologlyph-ibu.svg  | individual, person| essere umano      |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-kana.svg" width="25">|Bologlyph-kana.svg | family, clan      | famiglia, clan    |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-kene.svg" width="25">|Bologlyph-kene.svg | community work    | lavoro comunitario|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-kodu.svg" width="25">|Bologlyph-kodu.svg |agriculture, nature|agricoltura, natura|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-mafa.svg" width="25">|Bologlyph-mafa.svg | depot, warehouse  |deposito, magazzino| 
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-munu.svg" width="25">|Bologlyph-munu.svg | reputation        | reputazione, fama |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-nima.svg" width="25">|Bologlyph-nima.svg | tradition, culture|cultura, tradizione|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-nugo.svg" width="25">|Bologlyph-nugo.svg |death, suicide pill|morte, suicidio    |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-pali.svg" width="25">|Bologlyph-pali.svg | energy, fuel      | energia, carburante|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-pili.svg" width="25">|Bologlyph-pili.svg |communication, education|comunicazione,educazione|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-sadi.svg" width="25">|Bologlyph-sadi.svg | market, fair      | mercato, fiera    |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-sibi.svg" width="25">|Bologlyph-sibi.svg | craft, industry   | artigianato, industria|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-sila.svg" width="25">|Bologlyph-sila.svg |hospitality, tolerance| ospitalità, supporto|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-sufu.svg" width="25">|Bologlyph-sufu.svg |water, water supply| acqua, sorgente   |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-sumi.svg" width="25">|Bologlyph-sumi.svg | region, island    | regione, isola    |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-taku.svg" width="25">|Bologlyph-taku.svg | personal property |proprietà personale|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-tega.svg" width="25">|Bologlyph-tega.svg | district, town    | distretto, città  |
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-yaka.svg" width="25">|Bologlyph-yaka.svg | disagreement, war | litigio, battaglia|
+|<img src="./bologlyphs/Bologlyph-black8/Bologlyph-yalu.svg" width="25">|Bologlyph-yalu.svg | food, cuisine     | cibo, cucina      |
 
 
 The icons are mostly an slight adaptation of the symbols released on [Asa'pili page on wikipedia](https://en.wikipedia.org/wiki/Asa'pili) and are released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.it). 
