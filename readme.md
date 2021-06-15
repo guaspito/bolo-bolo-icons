@@ -59,7 +59,7 @@ Support/Join the project
 
 - [ ] Share the idea
 - [ ] Translate the card in other languages
-- [ ] Help to build the map (I would use [umap](http://umap.openstreetmap.fr/it/user/guaspito/), but is not clear how to allow many many many users to fill it)
+- [ ] Help to [build the map](http://u.osmfr.org/m/579954/) (I would use [umap](http://umap.openstreetmap.fr/it/user/guaspito/), but is not clear how to allow many many many users to fill it)
 - [ ] Give us a feedback, suggestions, contacts, by email or the new [github discussion forum](https://github.com/guaspito/bolo-bolo-icons/discussions)
 - [ ] De-mercify situations and protect them, build free and spiritual communities, help oppressed people. 
 - [ ] Think about the birth of a new global culture, supported by an auxiliary language.
