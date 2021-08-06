@@ -3,7 +3,7 @@ Bologlyph icons
 
 Icons inspired by the 1983 P.M.'s book [bolo'bolo](https://www.anarcopedia.org/index.php/Bolo%27bolo), where a global network of communities replaces the current global order, putting an end to world wars and patriarchal domination over humans and nature.
 
-[The book](http://libcom.org/library/pm-bolobolo) [ [IT text](https://www.3x1t.org/cloud/index.php/s/FXctNLje74MNw2W) | [IT Editor](http://www.anarca-bolo.ch/baronata/libri/bolo-bolo.html)] exploits a new global basic language that allows inter-communication of communities (*bolo*) describing the ideal culture that they promote. The language is called *asa'pili* (language of humanity) and figure basic universal needs and basic world organizational structures.
+[The book](http://libcom.org/library/pm-bolobolo) [ [IT text](https://www.3x1t.org/cloud/index.php/s/FXctNLje74MNw2W) | [IT Publisher](http://www.anarca-bolo.ch/baronata/libri/bolo-bolo.html)] exploits a new global basic language that allows inter-communication of communities (*bolo*) describing the ideal culture that they promote. The language is called *asa'pili* (language of humanity) and figure basic universal needs and basic world organizational structures.
 
 I exploited the connection of this idea with other not-utopic perspectives (Bahai Faith and Non-violent communication) in the paper [**La lingua ausiliaria dell'umanità.**
 *L’asa’pili come linguaggio di base per la costituzione di una
